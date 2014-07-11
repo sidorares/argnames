@@ -1,6 +1,6 @@
 {
   "name": "argnames",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "print function arguments with original names",
   "main": "index.js",
   "dependencies": {
