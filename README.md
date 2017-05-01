@@ -1,4 +1,6 @@
 #argnames
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/argnames.svg)](https://greenkeeper.io/)
 console.log(arguments) replacement
 
 usage:
